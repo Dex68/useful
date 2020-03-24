@@ -4,12 +4,12 @@
    - [书签](https://extensions.blockbyte.de/)   在浏览器视图区左侧添加固定式的, 管理所有书签的侧边栏.
    - [Extensions switcher](https://chrome.google.com/webstore/detail/extensions-switcher/mapmknaogodpakjopdhmdcilahbfbjpc)   可以分组管理插件
    - [二管家](https://chrome.google.com/webstore/detail/nooboss/aajodjghehmlpahhboidcpfjcncmcklf)  可以为每个网站定制插件
-   	- https://github.com
-   	  - [下载单个文件](https://github.com/softvar/enhanced-github) 
-   	  - [生成目录](https://github.com/jawil/GayHub) 
-   	- https://wenku.baidu.com
-   	  - [文档下载](http://www.blpack.com/crxm.html) 
-   	- https://chrome.google.com
+   	  - https://github.com
+   	    - [下载单个文件](https://github.com/softvar/enhanced-github) 
+   	    - [生成目录](https://github.com/jawil/GayHub) 
+   	  - https://wenku.baidu.com
+   	    - [文档下载](http://www.blpack.com/crxm.html) 
+   	  - https://chrome.google.com
    	  - [Chrome extension source viewer](  https://chrome.google.com/webstore/detail/chrome-extension-source-v/jifpbeccnghkjeaalbbjmodiffmgedin)   
    - [暴力猴](https://violentmonkey.github.io/) 管理脚本
       - 页面自动拼接
