@@ -2,15 +2,15 @@
 ## Chrome 插件
 1. 常用
    - [书签](https://extensions.blockbyte.de/)   在浏览器视图区左侧添加固定式的, 管理所有书签的侧边栏.
-   - [Extensions switcher](https://chrome.google.com/webstore/  detail/extensions-switcher/mapmknaogodpakjopdhmdcilahbfbjpc)   可以分组管理插件
-   - [二管家](https://chrome.google.com/webstore/detail/nooboss/  aajodjghehmlpahhboidcpfjcncmcklf)  可以为每个网站定制插件
+   - [Extensions switcher](https://chrome.google.com/webstore/detail/extensions-switcher/mapmknaogodpakjopdhmdcilahbfbjpc)   可以分组管理插件
+   - [二管家](https://chrome.google.com/webstore/detail/nooboss/aajodjghehmlpahhboidcpfjcncmcklf)  可以为每个网站定制插件
    	- https://github.com
-   	  - [下载单个文件](https://github.com/softvar/  enhanced-github) 
+   	  - [下载单个文件](https://github.com/softvar/enhanced-github) 
    	  - [生成目录](https://github.com/jawil/GayHub) 
    	- https://wenku.baidu.com
    	  - [文档下载](http://www.blpack.com/crxm.html) 
    	- https://chrome.google.com
-   	  - [Chrome extension source viewer](  https://chrome.google.com/webstore/detail/  chrome-extension-source-v/  jifpbeccnghkjeaalbbjmodiffmgedin)   
+   	  - [Chrome extension source viewer](  https://chrome.google.com/webstore/detail/chrome-extension-source-v/jifpbeccnghkjeaalbbjmodiffmgedin)   
    - [暴力猴](https://violentmonkey.github.io/) 管理脚本
       - 页面自动拼接
       - B站双击全屏
@@ -18,11 +18,11 @@
       - CSDN自动展开+去广告+净化剪贴板+免登陆显示当前网站所有的RSS
       - 网页限制解除
    - [meaufish](https://github.com/meowtec/chrome-menufish/)   chrome 右键菜单，自定义搜索和分享。
-   - [远方 new tab](https://chrome.google.com/webstore/detail/  dream-afar-new-tab/henmfoppjjkcencpbjaigfahdjlgpegn)   每天打开新页面都是一段不期而遇的旅行
-   - [Proxy SwitchyOmega](https://chrome.google.com/webstore/  detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif)   轻松快捷地管理和切换多个代理设置。
-   - [AdGuard 广告拦截器](https://chrome.google.com/webstore/  detail/adguard-adblocker/bgnkhhnnamicmpeenaelnjfhikgbkllg)   一款无与伦比的广告拦截扩展，用以对抗各式广告与弹窗。可以拦截   Facebook、YouTube 和其它所有网站的广告。
+   - [远方 new tab](https://chrome.google.com/webstore/detail/dream-afar-new-tab/henmfoppjjkcencpbjaigfahdjlgpegn)   每天打开新页面都是一段不期而遇的旅行
+   - [Proxy SwitchyOmega](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif)   轻松快捷地管理和切换多个代理设置。
+   - [AdGuard 广告拦截器](https://chrome.google.com/webstore/detail/adguard-adblocker/bgnkhhnnamicmpeenaelnjfhikgbkllg)   一款无与伦比的广告拦截扩展，用以对抗各式广告与弹窗。可以拦截   Facebook、YouTube 和其它所有网站的广告。
    - [Saladict 沙拉查词](https://saladict.crimx.com/)   聚合词典专业划词翻译
-   - [Battreminder](https://chrome.google.com/webstore/detail/  battreminder/eolgelhflgphiebnjopklpnplinmemfi) 浏览器显示电量
+   - [Battreminder](https://chrome.google.com/webstore/detail/battreminder/eolgelhflgphiebnjopklpnplinmemfi) 浏览器显示电量
 2. 偶尔使用 
    - [网页截图:注释&录屏](https://chrome.google.com/webstore/detail/awesome-screenshot-screen/nlipoenfbbikpbjkfpfillcgkoblgpmj) 录屏，捕获整个页面或任何部分，矩形，圆形，箭头，线条和文字，模糊敏感信息，一键上传分享注释。支持PNG和链接
    - chrome better history 能根据日期查历史
